@@ -104,7 +104,7 @@ deploy:
   type: rsync
   host: 1.12.221.152
   user: ubuntu
-  root: /home/ubuntu
+  root: /home/ubuntu/blog
   port: 22
   delete: true
   verbose: true
